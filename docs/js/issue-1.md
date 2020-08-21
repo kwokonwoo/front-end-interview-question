@@ -27,6 +27,7 @@ function diff(arr1, arr2) {
 }
 ```
 
+- [x] [Array.includes()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
 ```javascript
 // ES7 includes
 function diff(arr1, arr2) {
