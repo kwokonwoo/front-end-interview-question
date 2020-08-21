@@ -36,7 +36,7 @@ function diff(arr1, arr2) {
 }
 ```
 
-参考链接
+#### 参考链接
 
 [Array.prototype.includes()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)  
 [比较两数组差异(Diff Two Arrays)](https://singsing.io/blog/fcc/intermediate-diff-two-arrays/)  
