@@ -27,7 +27,6 @@ function diff(arr1, arr2) {
 }
 ```
 
-- [x] [Array.includes()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
 ```javascript
 // ES7 includes
 function diff(arr1, arr2) {
@@ -36,3 +35,9 @@ function diff(arr1, arr2) {
   return arr1.concat(arr2).filter(e => !arr1.includes(e) || !arr2.includes(e));
 }
 ```
+
+参考链接
+
+[Array.prototype.includes()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)  
+[比较两数组差异(Diff Two Arrays)](https://singsing.io/blog/fcc/intermediate-diff-two-arrays/)  
+[在 JavaScript 中，如何求出两个数组的交集和差集？](https://www.zhihu.com/question/19863166)
