@@ -5,7 +5,7 @@
 ### HTML
 ### CSS
 ### JS
-- [写一个difference方法，用于比较两个数组](docs/js.md)
+- [写一个difference方法，用于比较两个数组](docs/js/写一个difference方法，用于比较两个数组.md)
 ### Vue
 
 ## License
