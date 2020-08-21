@@ -1,5 +1,6 @@
 **CSS实现三角形**
 ```css
+/* border-top和border-right交界区域可以看成是由各自粗细为长宽形成的矩形 */
 .triangle-up {
     width: 0;
     height: 0;
