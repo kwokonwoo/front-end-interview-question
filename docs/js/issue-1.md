@@ -1,4 +1,5 @@
 - 写一个difference方法，用于比较两个数组，返回两数组中不同的部分，能实现多维数组的比较，能使用ES6的一些新特性来实现。
+
 ```javascript
 // 遍历两个数组，找出在另一个数组中不存在的元素push到结果数组中。
 function diff(arr1, arr2) {
@@ -21,7 +22,6 @@ function diff(arr1, arr2) {
 ```
 
 ```javascript
-// ES6
 function diff(arr1, arr2) {
   return arr1.filter(e => arr2.indexOf(e) === -1).concat(arr2.filter(e => arr1.indexOf(e) === -1));
 }
