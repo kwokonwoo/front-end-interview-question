@@ -7,7 +7,7 @@
 - [此文档仅作占位，尚无实际内容](docs/html/issue-2.md)
 - [此文档仅作占位，尚无实际内容](docs/html/issue-3.md)
 ### CSS
-- [此文档仅作占位，尚无实际内容](docs/css/issue-1.md)
+- [CSS实现三角形](docs/css/issue-1.md)
 - [此文档仅作占位，尚无实际内容](docs/css/issue-2.md)
 - [此文档仅作占位，尚无实际内容](docs/css/issue-3.md)
 ### JS
