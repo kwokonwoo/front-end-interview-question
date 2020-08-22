@@ -27,6 +27,25 @@ for (var index in array) {
   // console.log(typeof index);
 }
 ```
+
+`for...in`遍历属性`enumerable`属性为true的键，其中自定义属性的`enumerable`属性默认为true：
+```javascript
+let log = console.log;
+
+let names = ["Maxon","Moureen", "Kaihura-nkuba"];
+
+names.elf = "Lindolf";
+
+Object.defineProperty(names, "ent", {value: "Treebard", enumerable: false});
+
+log(names) // Output: ["Maxon", "Moureen", "Kaihura-nkuba", elf: "Lindolf", ent: "Treebard"]
+
+for (prop in names) {
+  log(prop); // Output: "0" ,"1" ,"2" ,"elf"
+}
+
+```
+
 用`for...in`来遍历数组有以下缺点：
 
 1. 数组的键名是数字，但是`for...in`循环是以字符串作为键名"0"、"1"、"2"等等。
