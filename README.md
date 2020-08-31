@@ -20,8 +20,8 @@
 - [async await是什么](docs/js/issue-7.md)
 - [js实现一个数的阶乘](docs/js/issue-8.md)
 ### Vue
-- [此文档仅作占位，尚无实际内容](docs/vue/issue-1.md)
-- [此文档仅作占位，尚无实际内容](docs/vue/issue-2.md)
+- [diff](docs/vue/issue-1.md)
+- [生命周期](docs/vue/issue-2.md)
 - [此文档仅作占位，尚无实际内容](docs/vue/issue-3.md)
 
 ## License
