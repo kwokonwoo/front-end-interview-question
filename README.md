@@ -8,7 +8,7 @@
 - [此文档仅作占位，尚无实际内容](docs/html/issue-3.md)
 ### CSS
 - [CSS实现三角形](docs/css/issue-1.md)
-- [此文档仅作占位，尚无实际内容](docs/css/issue-2.md)
+- [双飞翼布局](docs/css/issue-2.md)
 - [此文档仅作占位，尚无实际内容](docs/css/issue-3.md)
 ### JS
 - [写一个difference方法，用于比较两个数组](docs/js/issue-1.md)
