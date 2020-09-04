@@ -3,7 +3,7 @@
 ## 目录
 
 ### HTML
-- [此文档仅作占位，尚无实际内容](docs/html/issue-1.md)
+- [前端性能优化](docs/html/issue-1.md)
 - [此文档仅作占位，尚无实际内容](docs/html/issue-2.md)
 - [此文档仅作占位，尚无实际内容](docs/html/issue-3.md)
 ### CSS
