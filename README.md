@@ -19,6 +19,7 @@
 - [冒泡算法和快排算法](docs/js/issue-6.md)
 - [async await是什么](docs/js/issue-7.md)
 - [js实现一个数的阶乘](docs/js/issue-8.md)
+- [柯里化](docs/js/issue-9.md)
 ### Vue
 - [diff](docs/vue/issue-1.md)
 - [生命周期](docs/vue/issue-2.md)
