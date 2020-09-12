@@ -21,6 +21,8 @@
 - [async await是什么](docs/js/issue-7.md)
 - [js实现一个数的阶乘](docs/js/issue-8.md)
 - [柯里化](docs/js/issue-9.md)
+- [用reduce实现map](issue-10.md)
+
 ### Vue
 - [diff](docs/vue/issue-1.md)
 - [生命周期](docs/vue/issue-2.md)
