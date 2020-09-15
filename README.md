@@ -28,7 +28,7 @@
 - [生命周期](docs/vue/issue-2.md)
 - [此文档仅作占位，尚无实际内容](docs/vue/issue-3.md)
 
-### algorithm
+### Algorithm
 - [Dijkstra算法](docs/algorithm/issue-1.md)
 
 ## License
