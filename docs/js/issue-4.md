@@ -1,4 +1,4 @@
-**`for...in`和`for...of`区别** 
+### `for...in`和`for...of`区别
 
 最早的数组遍历方式：
 
@@ -103,7 +103,7 @@ for (var key in obj) {
 }
 ```
 
-**总结**
+#### 总结
 
 - `for...in`循环遍历对象所有`enumerable`属性为true的**keys**。
 - `for...of`循环遍历可迭代对象的**values**。所谓可迭代对象指的是原生具备Iterator接口的数据结构：
@@ -115,7 +115,7 @@ for (var key in obj) {
   - 函数的arguments对象
   - NodeList对象
 
-**参考链接**
+#### 参考链接
 
 [Iterator 和 for...of 循环](https://es6.ruanyifeng.com/#docs/iterator)
 
