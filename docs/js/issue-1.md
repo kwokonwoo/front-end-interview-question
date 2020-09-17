@@ -1,4 +1,4 @@
-**写一个`difference`方法**：  
+### 写一个`difference`方法`：  
 - 用于比较两个数组，返回两数组中不同的部分  
 - 能实现多维数组的比较，能使用ES6的一些新特性来实现
 
@@ -38,7 +38,7 @@ function diff(arr1, arr2) {
 }
 ```
 
-**参考链接**  
+#### 参考链接
 
  [Array.prototype.includes()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)  
  
