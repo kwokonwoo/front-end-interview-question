@@ -38,7 +38,7 @@ function find(arr, fn) {
 ```
 使用`或`运算是为了确保一旦找到满足条件的元素则将其“挂起”，而不是被后来同样满足条件的元素覆写。但因此也导致此实现不够精确，因为像`0`这样的`falsy`值返回的是最后一个匹配而不是第一个匹配。
 
-**参考链接**
+#### 参考链接
 
 [Array.prototype.reduce()](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce)
 
