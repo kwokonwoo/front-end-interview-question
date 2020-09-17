@@ -1,4 +1,4 @@
-**用`reduce`实现`map`**
+# 用`reduce`实现`map`
 
 ```javascript
 if (!Array.prototype.mapUsingReduce) {
@@ -15,7 +15,7 @@ if (!Array.prototype.mapUsingReduce) {
 ) // [5, 7, , 10]
 ```
 
-- 利用箭头函数和展开语法实现`map`
+## 利用箭头函数和展开语法实现`map`
 ```javascript
 function map(arr, fn) {
   return arr.reduce((acc, item) => [...acc, fn(item)], [])
@@ -23,14 +23,14 @@ function map(arr, fn) {
 ```
 首先将空数组作为初始值，然后在每次迭代中，通过展开语法将这个数组和调用一次提供的函数后的返回值连接起来。
 
-- 利用箭头函数和三元运算符实现`filter`
+## 利用箭头函数和三元运算符实现`filter`
 ```javascript
 function filter(arr, fn) {
   return arr.reduce((acc, item) => fn(item) ? [...acc.item] : acc, [])
 }
 ```
 
-- 利用箭头函数和三元运算符实现`find`
+## 利用箭头函数和三元运算符实现`find`
 ```javascript
 function find(arr, fn) {
   return arr.reduce((acc, item) => fn(item) ? acc || item : acc, undefined)
