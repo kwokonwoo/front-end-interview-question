@@ -1,4 +1,4 @@
-**数组乱序**  
+### 数组乱序
 
 常见的思路是利用`random`方法获取随机正负数并通过`sort`函数进行排序：
 ```javascript
@@ -154,7 +154,7 @@ for (let key in count) {
 ```
 测试可得所有排列都是等概率出现，并且Fisher-Yates算法没有排序，性能更好。
 
-**关于Fisher-Yates算法随机性的数学归纳法证明**
+#### 关于Fisher-Yates算法随机性的数学归纳法证明**
 
 对 n 个数进行随机：
 
@@ -183,7 +183,7 @@ setRangeRandom(min: number, max: number) {
 }
 ```
 
-**参考链接**
+#### 参考链接
 
 [Shuffle an array](https://javascript.info/task/shuffle)
 
