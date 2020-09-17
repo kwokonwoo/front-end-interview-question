@@ -154,7 +154,7 @@ for (let key in count) {
 ```
 测试可得所有排列都是等概率出现，并且Fisher-Yates算法没有排序，性能更好。
 
-#### 关于Fisher-Yates算法随机性的数学归纳法证明**
+#### 关于Fisher-Yates算法随机性的数学归纳法证明
 
 对 n 个数进行随机：
 
