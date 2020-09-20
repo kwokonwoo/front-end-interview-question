@@ -18,11 +18,11 @@
 - [for...in 和 for...of 区别](docs/js/issue-4.md)
 - [cookie和session的区别](docs/js/issue-5.md)
 - [冒泡算法和快排算法](docs/js/issue-6.md)
-- [async await是什么](docs/js/issue-7.md)
-- [js实现一个数的阶乘](docs/js/issue-8.md)
-- [柯里化](docs/js/issue-9.md)
-- [用reduce实现map](docs/js/issue-10.md)
-- [使用Promise实现一个image同步加载的函数](docs/js/issue-11.md)
+- [async await](docs/js/issue-6.md)
+- [js实现一个数的阶乘](docs/js/issue-7.md)
+- [柯里化](docs/js/issue-8.md)
+- [用reduce实现map](docs/js/issue-9.md)
+- [使用Promise实现一个image同步加载的函数](docs/js/issue-10.md)
 
 ### Vue
 - [diff](docs/vue/issue-1.md)
@@ -31,6 +31,7 @@
 
 ### Algorithm
 - [Dijkstra算法](docs/algorithm/issue-1.md)
+- [冒泡算法和快排算法](docs/algorithm/issue-2.md)
 
 ## License
 
