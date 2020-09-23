@@ -23,6 +23,7 @@
 - [柯里化](docs/js/issue-8.md)
 - [用reduce实现map](docs/js/issue-9.md)
 - [使用Promise实现一个image同步加载的函数](docs/js/issue-10.md)
+- [浏览器缓存](docs/js/issue-11.md)
 
 ### Vue
 - [diff](docs/vue/issue-1.md)
