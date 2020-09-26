@@ -26,6 +26,7 @@
 - [使用Promise实现一个image同步加载的函数](docs/js/issue-10.md)
 - [浏览器缓存](docs/js/issue-11.md)
 - [性能优化](docs/js/issue-12.md)
+- [防抖和节流](docs/js/issue-13.md)
 
 ### Vue
 - [diff](docs/vue/issue-1.md)
