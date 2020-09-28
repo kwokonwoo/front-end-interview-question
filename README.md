@@ -38,6 +38,9 @@
 - [Dijkstra算法](docs/algorithm/issue-1.md)
 - [冒泡算法和快排算法](docs/algorithm/issue-2.md)
 
+### Others
+- [浏览器DOM渲染过程](docs/others/issue-1.md)
+
 ## License
 
 公共领域（public domain）
