@@ -27,7 +27,6 @@
 - [浏览器缓存](docs/js/issue-11.md)
 - [性能优化](docs/js/issue-12.md)
 - [防抖和节流](docs/js/issue-13.md)
-- [ES6新特性]（docs/js/issue-14.md)
 
 ### Vue
 - [diff](docs/vue/issue-1.md)
