@@ -1,6 +1,8 @@
 ### 为什么0.1 + 0.3为false，如何解决？
 
-`+(0.1 + 0.2).toFixed(1); // 0.3`
+```javascript
++(0.1 + 0.2).toFixed(1); // 0.3
+```
 
 ```javascript
 function strip(number) {
