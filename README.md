@@ -31,7 +31,7 @@
 - [轮播图](docs/js/issue-14.md)
 - [跨域](docs/js/issue-15.md)
 - [为什么0.1 + 0.2 == 0.3为false，如何解决？](docs/js/issue-16.md)
-
+- [输入URL之后发生了什么？](docs/js/issue-17.md)
 ### Vue
 - [diff](docs/vue/issue-1.md)
 - [生命周期](docs/vue/issue-2.md)
