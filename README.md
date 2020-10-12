@@ -12,6 +12,7 @@
 - [BFC](docs/css/issue-3.md)
 - [动画](docs/css/issue-3.md)
 - [隐藏元素](docs/css/issue-4.md)
+- [三列布局](docs/css/issue-5.md)
 ### JS
 - [写一个difference方法，用于比较两个数组](docs/js/issue-1.md)
 - [实现一个从后台接口批量请求数据的异步方法request()](docs/js/issue-2.md)
