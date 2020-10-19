@@ -149,7 +149,7 @@ for (let i = 0; i < 1000000; i++) {
 }
 
 for (let key in count) {
-  alert('${key}: ${count[key]}');
+  alert(`${key}: ${count[key]}`);
 }
 ```
 测试可得所有排列都是等概率出现，并且Fisher-Yates算法没有排序，性能更好。
