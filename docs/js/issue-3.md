@@ -145,7 +145,7 @@ let count = {
 for (let i = 0; i < 1000000; i++) {
   let array = [1, 2, 3];
   shuffle(array);
-  count[array.join('')++;
+  count[array.join('')]++;
 }
 
 for (let key in count) {
