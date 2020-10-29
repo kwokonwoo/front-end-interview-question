@@ -5,7 +5,6 @@
 ### HTML
 - [块级元素和行内元素](docs/html/issue-1.md)
 - [HTML存储方式](docs/html/issue-2.md)
-- [](docs/html/issue-3.md)
 ### CSS
 - [CSS实现三角形](docs/css/issue-1.md)
 - [双飞翼布局](docs/css/issue-2.md)
