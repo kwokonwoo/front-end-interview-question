@@ -36,7 +36,7 @@
 ### Vue
 - [diff](docs/vue/issue-1.md)
 - [生命周期](docs/vue/issue-2.md)
-- [此文档仅作占位，尚无实际内容](docs/vue/issue-3.md)
+- [双向绑定原理](docs/vue/issue-3.md)
 
 ### Algorithm
 - [Dijkstra算法](docs/algorithm/issue-1.md)
