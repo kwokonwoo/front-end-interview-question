@@ -14,6 +14,7 @@
 - [三列布局](docs/css/issue-5.md)
 - [CSS优先级](docs/css/issue-6.md)
 ### JS
+- [浅拷贝和深拷贝](docs/js/issue-0.md)
 - [写一个difference方法，用于比较两个数组](docs/js/issue-1.md)
 - [实现一个从后台接口批量请求数据的异步方法request()](docs/js/issue-2.md)
 - [数组乱序](docs/js/issue-3.md)
