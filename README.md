@@ -36,6 +36,7 @@
 - [事件循环](docs/js/issue-18.md)
 - [模拟实现Promise.finally](docs/js/issue-19.md)
 - [异步加载JavaScript文件函数loadscript](docs/js/issue-20.md)
+- [获取加载页面tagName的个数](docs/js/issue-21.md)
 ### Vue
 - [diff](docs/vue/issue-1.md)
 - [生命周期](docs/vue/issue-2.md)
